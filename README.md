@@ -4,7 +4,6 @@
     <h3 align="left">
         <ul>
             <li>🔭 I'm a Web Developer at Outlawz</li>
-            <li>💬 Ask me about anything you want, preferably on slack</li>
             <li>📫 How to reach me: bas@outlawz.nl</li>
         </ul>
     </h3>
